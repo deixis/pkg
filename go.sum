@@ -52,9 +52,11 @@ github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/deixis/errors v0.0.0-20191208202837-0577ef878ffc/go.mod h1:fvLYJ4UCctDKMyRFLL+r3g2+lLcXkv/WPfMMEAocp0Q=
-github.com/deixis/errors v0.0.0-20201016223924-c93deeb767f3 h1:buB7oo7LCHBWCZ+XPTY6ifD2pNYiq1aMdJoZF5arm68=
 github.com/deixis/errors v0.0.0-20201016223924-c93deeb767f3/go.mod h1:hk1QahaDu530cj/8RjLKmn5j5h8sqI00kp97gwBcNng=
+github.com/deixis/errors v0.0.0-20210714115218-e650c60925fa h1:iTbhehAiQZg9CO8iLj5kQ2Ii7DSbyU8ploPJF/T/JTk=
+github.com/deixis/errors v0.0.0-20210714115218-e650c60925fa/go.mod h1:Ljk5xQkkxUQ/eYNtXXbj2q4Zrb2Glu+hHO5RKGFcks4=
 github.com/deixis/pkg v0.0.0-20200103130914-29fc838fd0c5/go.mod h1:N0SEFUuk3o11EBczeAr0Oft9bXuK64I6o2hoQmQuaVg=
+github.com/deixis/pkg v0.0.0-20201016224005-3e2cc7901235/go.mod h1:X6o1HnwZsQvuypbGcolGcsEgANVk9mpePFW0VEkDjPE=
 github.com/deixis/spine v0.0.0/go.mod h1:FK2dlvIQXJbQm/VF3SfIbYmc8toFMqU5EzC425lk5CQ=
 github.com/deixis/spine v0.1.1/go.mod h1:VfXy9bf7YDj4NExmzWCK11Y27N4JgPoz7D4RMuwr3KI=
 github.com/deixis/spine v0.1.2-0.20201016213259-a5b34b04cb80/go.mod h1:fpPw4fcGXgG9xegrDxLr2eJAl9tqm8T5r8lxrTId6IU=
@@ -300,8 +302,9 @@ github.com/pelletier/go-toml v1.6.0 h1:aetoXYr0Tv7xRU/V4B4IZJ2QcbtMUFoNb3ORp7TzI
 github.com/pelletier/go-toml v1.6.0/go.mod h1:5N711Q9dKgbdkxHL+MEfF31hpT7l0S0s/t2kKREewys=
 github.com/peterbourgon/diskv v2.0.1+incompatible/go.mod h1:uqqh8zWWbv1HBMNONnaR/tNboyR3/BZd58JJSHlUSCU=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
-github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/posener/complete v1.1.1/go.mod h1:em0nMJCgc9GFtwrmVmEMR/ZL6WyhyjMBndrE9hABlRI=
